@@ -1,3 +1,3 @@
 # Information
 
-it's just normal minecraft, but your reach is extended (only for bedrock 1.19.30+)
+All minecraft mods i made for the game ( Bedrock 1.19.30+ )
